@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
-<h3 align="center">A Software Engineering Student at the University of Waterloo</h3>
+<h4 align="center">A Software Engineering Student at the University of Waterloo</h4>
 
 - 🔭 I’m currently working on **CatCart**
 

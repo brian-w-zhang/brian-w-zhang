@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
 <h3 align="center">A Software Engineering Student at the University of Waterloo</h3>
 
-- 🔭 I’m currently working on [A Multilingual Voice Assistant]([https://github.com/geraldyywang/ARIA.git])
+- 🔭 I’m currently working on [A Multilingual Voice Assistant](https://github.com/geraldyywang/ARIA.git)
 
 - 📫 How to reach me **b234zhan@uwaterloo.ca**
 

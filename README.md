@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [A Space Portfolio](https://github.com/brian-w-zhang/portfolio)
 
-- 📫 How to reach me **b234zhan@uwaterloo.ca**
+- 📫 How to reach me **brian.w.zhang@gmail.com**
 
 <p align="left">
 <a href="https://linkedin.com/in/brian-w-zhang" target="blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>

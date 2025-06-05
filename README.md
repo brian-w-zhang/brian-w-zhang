@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brian</h1>
-<h3 align="center">A Software Engineering Student at the University of Waterloo</h3>
+<h3 align="center">Software Engineering Student at the University of Waterloo</h3>
 
 - 🔭 I’m currently working on [A Space Portfolio](https://github.com/brian-w-zhang/portfolio)
 

@@ -1,4 +1,4 @@
-Hi 👋! I'm Brian, a software engineering student at the University of Waterloo. Recently worked on making job search suck less at <a href="https://simplify.jobs/"><img src="https://simplify.jobs/favicon.ico" height="13"/> Simplify</a>, now researching generative agents while on exchange in Singapore.
+Hi 👋! I'm Brian, a software engineering student at the University of Waterloo. Recently worked on making job search suck less at <a href="https://simplify.jobs/"><img src="https://simplify.jobs/favicon.ico" height="13"/> Simplify</a>, now researching <a href="https://arxiv.org/abs/2304.03442">generative agents</a> while on exchange in Singapore.
 
 <a href="https://brianwzhang.com"><img src="https://img.shields.io/static/v1?message=Website&label=&color=000000&logoColor=white&style=for-the-badge&logo=safari" height="30"/></a>
 <a href="https://linkedin.com/in/brian-w-zhang"><img src="https://img.shields.io/static/v1?message=LinkedIn&label=&color=0077B5&logoColor=white&style=for-the-badge&logo=linkedin" height="30"/></a>
